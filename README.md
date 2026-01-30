@@ -147,16 +147,16 @@ While the demo runs locally, the architecture supports scaling via:
 For submission screenshots:
 
 - Dataset uploaded successfully
-![alt text](Datasetupload.png)
+![alt text](imgs\Datasetupload.png)
 
 - Q&A example
-![alt text](Q&A.png)
+![alt text](imgs\Q&A.png)
 
 - Follow-up question
-![alt text](followup.png)
+![alt text](imgs\followup.png)
 
 - Summarization output
-![alt text](Summary.png)
+![alt text](imgs\Summary.png)
 
 ## ⚠️ Assumptions & Limitations
 
