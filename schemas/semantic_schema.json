@@ -1,0 +1,26 @@
+{
+  "dataset_type": "aggregated_report",
+  "metrics": [
+    "Weight",
+    "TP 1",
+    "TP 2",
+    "MRP Old",
+    "Final MRP Old",
+    "Ajio MRP",
+    "Amazon MRP",
+    "Amazon FBA MRP",
+    "Flipkart MRP",
+    "Limeroad MRP",
+    "Myntra MRP",
+    "Paytm MRP",
+    "Snapdeal MRP"
+  ],
+  "dimensions": [
+    "Sku",
+    "Style Id",
+    "Catalog",
+    "Category"
+  ],
+  "time_fields": [],
+  "grain": "SKU level"
+}
